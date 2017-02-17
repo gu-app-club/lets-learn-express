@@ -15,7 +15,7 @@ Node itself is incredibly fast and written in C++.
 Clone the repo!
 
 ```
-git clone <<insert repo url here>>
+git clone https://github.com/gu-app-club/lets-learn-express.git
 ```
 
 Now inside of your folder, run the following:
