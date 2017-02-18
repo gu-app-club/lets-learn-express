@@ -6,9 +6,12 @@ This tutorial walks you through how to setup a backend server in only 12 lines!
 
 # Before we get started
 
-You'll need to install node. If you're on a mac, you can run `brew install node` in your shell. If you're on a PC, you should check out [the download page](https://nodejs.org/en/download/).
+**You'll need to install node.**   
+If you're on a mac, you can run `brew install node` in your shell.   
+If you're on a PC, you should check out [the download page](https://nodejs.org/en/download/).
 
-Familiarize yourself with Javascript. Don't worry if you have never used it before. It is a really straight forward straight forward language to learn and is similar to many other languages you already know. Learn X in Y minutes has [a great tutorial here](https://learnxinyminutes.com/docs/javascript/) that takes you through all of the syntax.
+**Familiarize yourself with Javascript.**
+Don't worry if you have never used it before. It is a really straight forward straight forward language to learn and is similar to many other languages you already know. Learn X in Y minutes has [a great tutorial here](https://learnxinyminutes.com/docs/javascript/) that takes you through all of the syntax.
 
 Node is a "run-time" for javascript. Think of it like the Java Virtual Machine for Java. It's also an ecosystem of libraries and helpful tools that we can use for writing servers.
 
